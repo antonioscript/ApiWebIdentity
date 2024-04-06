@@ -9,11 +9,6 @@ namespace ApiWebIdentity.Migrations
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DeleteData(
-                table: "Heroes",
-                keyColumn: "Id",
-                keyValue: 1);
-
             migrationBuilder.CreateTable(
                 name: "AspNetRoles",
                 columns: table => new
@@ -221,11 +216,6 @@ namespace ApiWebIdentity.Migrations
 
             migrationBuilder.DropTable(
                 name: "AspNetUsers");
-
-            migrationBuilder.InsertData(
-                table: "Heroes",
-                columns: new[] { "Id", "Age", "City", "CivilName", "Email", "HeroName", "Team" },
-                values: new object[] { 1, 28, "New York City", "Peter Parker", "peter@gmail.com", "Spider-Man", null });
         }
     }
 }

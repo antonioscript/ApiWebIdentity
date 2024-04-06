@@ -2,6 +2,7 @@ using ApiWebIdentity.Configuration;
 using ApiWebIdentity.DataContext;
 using Humanizer.Localisation;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Newtonsoft.Json;
@@ -46,6 +47,11 @@ builder.Services.AddAuthentication(options =>
             ValidateLifetime = true
         };
     });
+
+
+//Adicionar o serviço do Identity***
+builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddEntityFrameworkStores<AppDbContext>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
