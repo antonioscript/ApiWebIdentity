@@ -247,3 +247,13 @@ C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0
 C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\obj\Debug\net6.0\ApiWebIdentity.csproj.CopyComplete
+C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\ApiWebIdentity.staticwebassets.runtime.json
+C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\ApiWebIdentityDotnet8\ApiWebIdentity\ApiWebIdentity\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
