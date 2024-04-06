@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fP7BSphDrB5LvQmZg9ytkBKCfRFbNuvJPon1CuxISjU=",
+  "Source": "ApiWebIdentity",
+  "BasePath": "_content/ApiWebIdentity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
